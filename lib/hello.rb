@@ -1,15 +1,8 @@
 def hello_t(array)
-
   if block_given?
-
-
-      yield(array)
-array
-    else
-      puts "Hey! No block was given!"
-
+yield(array)
   end
-
 end
 
 # call your method here!
+

@@ -5,4 +5,3 @@ yield(array)
 end
 
 # call your method here!
-
